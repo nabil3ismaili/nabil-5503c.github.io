@@ -1,0 +1,16 @@
+const siteConfig = {
+    shopName: "EL DJENAH",
+    subtitle: "Est. 2024 — Algeria",
+    heroTitle1: "The Finest",
+    heroTitle2: "Shopping Experience",
+    heroDesc: "We are the best shop here in Algeria. Discover curated luxury products with premium quality and authentic craftsmanship delivered to your doorstep.",
+    ctaText: "Explore Collection",
+    collectionTitle: "Our Collection",
+    delivery: "We deliver across all 58 wilayas of Algeria. Standard delivery: 500 DZD. Express delivery: 1,200 DZD. Free delivery on orders over 20,000 DZD.",
+    quality: "Every product is carefully selected and quality-checked. We partner with the finest artisans and brands to bring you only the best.",
+    service: "Cash on delivery available. 14-day return policy. Customer support available 7 days a week. Your satisfaction is our priority.",
+    footer: "The best shop in Algeria. Bringing luxury and tradition together.",
+    contact: "Contact us: contact@eldjenah.dz | +213 555 123 456"
+};
+
+window.siteConfig = siteConfig;
